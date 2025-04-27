@@ -1,5 +1,5 @@
 ## Olá, sou o João 👋
-- 👨‍💻 Desenvolvedor de Software apaixonado por soluções inovadoras para problemas reais
+- 👨‍💻 Desenvolvedor de Software apaixonado por soluções inovadoras em que eu possa aprender mais
   
 ## Fale comigo:
 <div>
