@@ -1,5 +1,7 @@
 ## Olá, sou o João 👋
-- 👨‍💻 Desenvolvedor de Software apaixonado por soluções inovadoras em que eu possa aprender mais
+- 👨‍💻 Desenvolvedor Mobile
+- 📚 Graduando em Engenharia de Computação (4/10)
+- 🍎 Desenvolvedor iOS no Apple Developer Academy
   
 ## Fale comigo:
 <div>
