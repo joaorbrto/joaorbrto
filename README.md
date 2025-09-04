@@ -1,6 +1,6 @@
 ## Hey, I'm João 👋
 - 👨‍💻 Software Engineer
-- 📚 Computer Engineering major (4/10)
+- 📚 Computer Engineering major (5/10)
 - 🍎 iOS Developer at Apple Developer Academy
 
 ## Talk to me:
