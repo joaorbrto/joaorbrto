@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=900&color=000000&width=600&lines=Hey,+I'm+Jo%C3%A3o!;iOS+Developer+🍎;Software+Engineer;Always+Learning+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=900&color=FFFFFF&width=600&lines=Hey,+I'm+Jo%C3%A3o!;iOS+Developer;Software+Engineer;Challenge+Based+Learning)
 
 An iOS Developer driven by a passion for building native Apple experiences that blend design, innovation, and accessibility.
 
