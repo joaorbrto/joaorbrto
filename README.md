@@ -1,6 +1,4 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Jo%C3%A3o+Roberto!;iOS+Developer;Software+Engineer;Always+Learning)
-
- ---
  
 - 💻 iOS Developer and Apple technologies enthusiast  
 - 🎓 Computer Engineering undergraduate (5/10)  
