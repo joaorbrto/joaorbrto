@@ -1,19 +1,8 @@
 <!-- ✨ Header Animation -->
-<p align="center">
+<p align="leadingr">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Jo%C3%A3o!;iOS+Developer+🍎;Software+Engineer;Challenge+Based+Learning+Enthusiast" alt="Typing Animation" />
 </p>
 
----
-
-<!-- 📊 GitHub Stats -->
-<div align="leading">
-
-[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaorbrto&count_private=true&show_icons=true&hide=stars&title_color=F7F7F7&text_color=BBBBBB&icon_color=FFFFFF&bg_color=000000)](https://github.com/joaorbrto/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaorbrto&layout=compact&title_color=F7F7F7&text_color=F7F7F7&bg_color=000000)](https://github.com/joaorbrto/github-readme-stats)
-
-</div>
-
----
 
 ###  About Me
 - 👨‍💻 Passionate about creating apps that blend **design, innovation, and accessibility**  
@@ -27,6 +16,15 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift,swiftui,apple,python,git,figma,xcode,vscode" />
 </p>
+
+<!-- 📊 GitHub Stats -->
+<div align="leading">
+
+[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaorbrto&count_private=true&show_icons=true&hide=stars&title_color=F7F7F7&text_color=BBBBBB&icon_color=FFFFFF&bg_color=000000)](https://github.com/joaorbrto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaorbrto&layout=compact&title_color=F7F7F7&text_color=F7F7F7&bg_color=000000)](https://github.com/joaorbrto/github-readme-stats)
+
+</div>
+
 
 
 ###  Let's Connect
