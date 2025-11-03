@@ -1,5 +1,5 @@
 <!-- ✨ Header Animation -->
-<p align="leadingr">
+<p align="leading">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Jo%C3%A3o!;iOS+Developer+🍎;Software+Engineer;Challenge+Based+Learning+Enthusiast" alt="Typing Animation" />
 </p>
 
@@ -14,7 +14,7 @@
 
 ###  Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,swiftui,apple,python,git,figma,xcode,vscode" />
+  <img src="https://skillicons.dev/icons?i=swift,apple,python,git,figma,vscode" />
 </p>
 
 <!-- 📊 GitHub Stats -->
