@@ -11,7 +11,7 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="center">
+<p align="leading">
   <img src="https://skillicons.dev/icons?i=swift,apple,python,git,figma,vscode,xcode" />
 </p>
 
