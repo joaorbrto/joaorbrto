@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Jo%C3%A3o+👋" alt="Hey, I'm João 👋" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=900&color=000000&width=600&lines=Hey,+I'm+Jo%C3%A3o!;iOS+Developer+🍎;Software+Engineer;Always+Learning+🚀)
+
+An iOS Developer driven by a passion for building native Apple experiences that blend design, innovation, and accessibility.
 
 ---
 
