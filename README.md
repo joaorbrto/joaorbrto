@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=Olá,+sou+o+Jo%C3%A3o+Roberto!;iOS+Developer+🍎;Software+Engineer;Always+Learning+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=Olá,+sou+o+Jo%C3%A3o+Roberto!;iOS+Developer;Software+Engineer;Always+Learning)
 
 	-	💻 iOS Developer and Apple technologies enthusiast
 	-	🎓 Computer Engineering undergraduate (5/10)
@@ -24,6 +24,7 @@
 > ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Bibliotecas e Frameworks
 > ![SwiftUI](https://img.shields.io/badge/swiftui-%2335495e.svg?style=for-the-badge&logo=swift&logoColor=%234FC08D)
