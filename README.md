@@ -1,9 +1,5 @@
 <h1 align="center">Hey, I'm João 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=👨‍💻+Software+Engineer;📚+Computer+Engineering+Student+(5%2F10);🍎+iOS+Developer+at+Apple+Developer+Academy" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧠 About Me
@@ -16,7 +12,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,swiftui,apple,python,git,figma,vscode,xd,linux" />
+  <img src="https://skillicons.dev/icons?i=swift,apple,python,git,figma,vscode,xcode" />
 </p>
 
 ---
@@ -39,12 +35,5 @@
   </a>
 </p>
 
----
 
-### ✨ Fun Fact
-> "I love crafting elegant solutions — and making them look *Apple-clean*."
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="200">
-</p>
 
