@@ -3,17 +3,19 @@
 - 💻 iOS Developer and Apple technologies enthusiast  
 - 🎓 Computer Engineering undergraduate (5/10)  
 - 🍎 Apple Developer Academy Student  
-- 🧠 Passionate about innovation  
+- 🧠 Passionate about innovation
+
+  ## Connect with me
+
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-roberto-72a05b217/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaorobertocode@gmail.com)
+
 
 <br>
 
 [![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaorbrto&count_private=true&show_icons=true&hide=stars&title_color=F7F7F7&text_color=BBBBBB&icon_color=F7F7F7&bg_color=000000)](https://github.com/joaorbrto/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaorbrto&layout=compact&title_color=F7F7F7&text_color=F7F7F7&bg_color=000000)](https://github.com/joaorbrto)
 
-## Connect with me
-
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-roberto-72a05b217/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaorobertocode@gmail.com)
 
 <br>
 
