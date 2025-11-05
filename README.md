@@ -39,7 +39,7 @@
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
 
-> [![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaorbrto&count_private=true&show_icons=true&hide=stars&title_color=F7F7F7&text_color=BBBBBB&icon_color=F7F7F7&bg_color=000000)](https://github.com/joaorbrto/github-readme-stats)
+[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaorbrto&count_private=true&show_icons=true&hide=stars&title_color=F7F7F7&text_color=BBBBBB&icon_color=F7F7F7&bg_color=000000)](https://github.com/joaorbrto/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaorbrto&layout=compact&title_color=F7F7F7&text_color=F7F7F7&bg_color=000000)](https://github.com/joaorbrto)
 
 
