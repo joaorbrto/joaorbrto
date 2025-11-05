@@ -8,7 +8,6 @@
 - 🍎 Apple Developer Academy Student  
 - 🧠 Passionate about innovation  
 
----
 
 ###  Connect with Me
 <p align="center">
