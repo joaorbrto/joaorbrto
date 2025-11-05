@@ -1,8 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Jo%C3%A3o+Roberto!;iOS+Developer;Software+Engineer;Always+Learning)
  
--> 🎓 Computer Engineering undergraduate (5/10)  
--> 🍎 Apple Developer Academy Student  
--> 🧠 Passionate about innovation
+- 🎓 Computer Engineering undergraduate (5/10)  
+- 🍎 Apple Developer Academy Student  
+- 🧠 Passionate about innovation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-roberto-72a05b217/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaorobertocode@gmail.com)
