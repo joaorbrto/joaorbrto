@@ -10,7 +10,7 @@
 
 
 ###  Connect with Me
-<p align="center">
+<p align="leading">
   <a href="https://www.linkedin.com/in/joão-roberto-72a05b217/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
