@@ -35,16 +35,16 @@
 ![CoreML](https://img.shields.io/badge/CoreML-000?style=for-the-badge&logo=apple&logoColor=white)
 ![ARKit](https://img.shields.io/badge/ARKit-000?style=for-the-badge&logo=arkit&logoColor=white)
 
-#### 🗄️ Databases
+####  Databases
 > ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 💻 Operating Systems
+####  Operating Systems
 > ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-#### ⚙️ Tools
+####  Tools
 > ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
