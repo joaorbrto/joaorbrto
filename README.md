@@ -5,7 +5,8 @@
 
 ###  About Me
 - 🎓 Computer Engineering undergraduate (5/10)  
-- 🍎 Apple Developer Academy Student  
+- 🍎 Apple Developer Academy Student
+- ☕️ CocoaHeads Fortaleza's member 
 - 🧠 Passionate about innovation  
 
 
