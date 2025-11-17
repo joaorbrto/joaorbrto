@@ -51,14 +51,3 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
----
-
-###  GitHub Stats
-<p align="center">
-  <a href="https://github.com/joaorbrto">
-    <img height="170em" width = "600em" src="https://github-readme-stats.vercel.app/api?username=joaorbrto&count_private=true&show_icons=true&hide=stars&title_color=F7F7F7&text_color=BBBBBB&icon_color=F7F7F7&bg_color=000000" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/joaorbrto">
-    <img height="170em" width = "650em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorbrto&layout=compact&title_color=F7F7F7&text_color=F7F7F7&bg_color=000000" alt="Top Languages" />
-  </a>
-</p>
