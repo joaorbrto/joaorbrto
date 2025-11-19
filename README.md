@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/Combine-2E7D32?style=flat&logo=apple&logoColor=white" alt="Combine" />
   <img src="https://img.shields.io/badge/ARKit-2E1C19?style=flat&logo=apple&logoColor=white" alt="ARKit" />
   <img src="https://img.shields.io/badge/API-REST-FFC343?style=flat&logo=postman&logoColor=white" alt="APIs" />
-  <img src="https://img.shields.io/badge/UI%2FUX-FF4394?style=flat&logo=figma&logoColor=white" alt="UI/UX" />
 </p>
+
 - 🎓 Computer Engineering undergraduate (5/10)  
 - 🍎 dev iOS at Apple Developer Academy
 - ☕️ CocoaHeads Fortaleza's member 
