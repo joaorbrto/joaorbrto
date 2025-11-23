@@ -1,6 +1,6 @@
 <!-- 🧠 Header Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=900&color=4169E1&center=true&vCenter=true&width=600&lines=Hey,+I'm+Jo%C3%A3o+Roberto!;iOS+Developer;Software+Engineer;Always+Learning" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=900&color=4169E1&center=true&vCenter=true&width=600&lines=Hey,+I'm+Jo%C3%A3o+Roberto!;iOS+Developer;Software+Engineer;Passionate+about+challenges" alt="Typing Animation" />
 </p>
 
 #
