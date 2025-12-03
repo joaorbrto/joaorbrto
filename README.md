@@ -14,9 +14,9 @@
   <img src="https://img.shields.io/badge/API-REST-FFC343?style=flat&logo=postman&logoColor=white" alt="APIs" />
 </p>
 
-- 🎓 Computer Engineering undergraduate (5/10)  
-- 🍎 dev iOS at Apple Developer Academy
-- ☕️ CocoaHeads Fortaleza's member 
+- 🎓 Computer Engineering undergraduate (5/10)
+- ☕️ CocoaHeads Fortaleza's member
+- 🍎 Apple Developer Academy's Alumni
 - 🧠 Passionate about innovation  
 
 
