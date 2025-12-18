@@ -45,7 +45,7 @@
       </a>
     </td>
    <td valign="top" align="center" width="280">
-      <img src="catchit.png" width="260" alt="Catch It!" />
+      <img src="catchit-thumb.png" width="260" alt="Catch It!" />
       <h3>Catch It!</h3>
       <p>
         Reconhecimento de espécies com foco na vida animal.
