@@ -2,10 +2,10 @@
 <p align="left">
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=900&color=4169E1&width=600&lines=Hey,+I'm+Jo%C3%A3o+Roberto!;iOS+Developer;Software+Engineer;Passionate+about+Challenges)
+
+  A developer driven by a passion for overcoming challenges, telling stories, and spreading knowledge.
 </p>
 
-
-#
 <p align="left">
   <img src="https://img.shields.io/badge/Swift-FF7043?style=flat&logo=swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/SwiftUI-1565C0?style=flat&logo=swift&logoColor=white" alt="SwiftUI" />
@@ -19,7 +19,6 @@
 - 🎓 Computer Engineering undergraduate (5/10)
 - ☕️ CocoaHeads Fortaleza's member
 - 🍎 Apple Developer Academy's Alumni
-- 🧠 Passionate about innovation
 
 
 ##  Featured Projects
