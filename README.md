@@ -18,7 +18,7 @@
 
 - 🎓 Computer Engineering undergraduate (5/10)
 - ☕️ CocoaHeads Fortaleza's member
-- 🍎 Apple Developer Academy's Alumni 2024 - 2025
+- 🍎 Apple Developer Academy's Alumni 
 
 
 ##  Featured Projects
