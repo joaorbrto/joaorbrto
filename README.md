@@ -19,7 +19,7 @@
 - 💻 iOS Development Mentor at Apple Developer Academy | IFCE
 - 🎓 Computer Engineering undergraduate (7/10)
 - ☕️ CocoaHeads Fortaleza's member
-- 🍎 Apple Developer Academy's Alumni and Resident
+- 🍎 Apple Developer Academy's Alumni (2024-2025) and Resident (2026)
 
 
 ##  Featured Projects
